@@ -21,22 +21,22 @@ atcorder/<br>
 
 - 毎週土曜の ABC に参加
 - 過去問は B〜D を中心に解く
-- 解けなかった問題は解説を読み，Zenn にまとめる
+- 解けなかった問題は解説を読み，README にまとめる
 
 ## 🚀 使用言語・環境
 
-- Python 3.11
+- Python
+- C++
 - VSCode + GitHub
 - 提出環境：AtCoder公式サイト
 
 ## 🔗 参考リンク
 
 - [AtCoder アカウント](https://atcoder.jp/users/tsurumy)
-- [Zenn 技術ブログ](https://zenn.dev/your_username)
 - [GitHub リポジトリ](https://github.com/tsurumi-shunsuke/atcorder.git)
 
 ## 🏁 今後の目標
 
-- 緑レート以上を目指す（2025年7月まで）
+- 緑レート以上を目指す
 - C, D問題の安定解答を目指す
-- サマーインターンの技術選考で活用
+- インターンの技術選考で活用
